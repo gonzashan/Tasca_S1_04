@@ -1,4 +1,4 @@
-![myfile](astronauto.gif){:height="20px" width="20px"}
+![myfile](astronauto.gif){:height="50%" width="50%"}
     
 
 
