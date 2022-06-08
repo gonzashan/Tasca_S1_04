@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tasca_S1_04.iml" filepath="$PROJECT_DIR$/.idea/Tasca_S1_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n1exercici1/n1exercici1.iml" filepath="$PROJECT_DIR$/n1exercici1/n1exercici1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n2exercici1/n1exercici2.iml" filepath="$PROJECT_DIR$/n2exercici1/n1exercici2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n1exercici2/n2exercici1.iml" filepath="$PROJECT_DIR$/n1exercici2/n2exercici1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n3exercici3/n3exercici3.iml" filepath="$PROJECT_DIR$/n3exercici3/n3exercici3.iml" />
+    </modules>
+  </component>
+</project>
